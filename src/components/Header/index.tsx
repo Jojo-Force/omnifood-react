@@ -3,7 +3,7 @@ const Header = () => {
     return (
         <header className="header">
             <a href="#">
-                <img className="logo" alt="Omnifood logo" src="/img/omnifood-logo.png"/>
+                <img className="logo" alt="Omnifood logo" src="img/omnifood-logo.png"/>
             </a>
             <nav className="main-nav">
                 <ul className="main-nav-list">
