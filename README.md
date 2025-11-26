@@ -1,6 +1,6 @@
-# do-work
+# omnifood-react
 
-do-work is a psychology quiz app created by react.js, simple on https://jojo-force.github.io/
+omnifood-react is created by react.js, simple on https://jojo-force.github.io/
 
 ## Install Package
 
