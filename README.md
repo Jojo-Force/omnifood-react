@@ -1,6 +1,6 @@
 # omnifood-react
 
-omnifood-react is created by react.js, simple on https://jojo-force.github.io/
+omnifood-react is created by react.js
 
 ## Install Package
 
