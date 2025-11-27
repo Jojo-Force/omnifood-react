@@ -1,4 +1,4 @@
-
+import './local.scss'
 const SectionMeals = () => {
     return (
         <section className="section-meals" id="meals">

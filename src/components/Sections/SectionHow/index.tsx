@@ -1,4 +1,4 @@
-
+import './local.scss'
 const SectionHow = () => {
     return (
         <section className="section-how" id="how">

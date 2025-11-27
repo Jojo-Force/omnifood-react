@@ -1,4 +1,4 @@
-
+import './local.scss'
 const SectionCTA = () => {
     return (
         <section className="section-cta" id="cta">

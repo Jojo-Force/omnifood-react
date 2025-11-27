@@ -1,10 +1,10 @@
-import SectionCTA from '../Sections/SectionCTA'
-import SectionFeatured from '../Sections/SectionFeatured'
-import SectionHero from '../Sections/SectionHero'
-import SectionHow from '../Sections/SectionHow'
-import SectionMeals from '../Sections/SectionMeals'
-import SectionPricing from '../Sections/SectionPricing'
-import SectionTestimonials from '../Sections/SectionTestimonials'
+import SectionCTA from '@/components/Sections/SectionCTA'
+import SectionFeatured from '@/components/Sections/SectionFeatured'
+import SectionHero from '@/components/Sections/SectionHero'
+import SectionHow from '@/components/Sections/SectionHow'
+import SectionMeals from '@/components/Sections/SectionMeals'
+import SectionPricing from '@/components/Sections/SectionPricing'
+import SectionTestimonials from '@/components/Sections/SectionTestimonials'
 
 const Main =()=>{
     return (

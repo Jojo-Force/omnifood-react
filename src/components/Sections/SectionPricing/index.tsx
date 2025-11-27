@@ -1,3 +1,4 @@
+import './local.scss'
 const SectionPricing = () => {
     return (
         <section className="section-pricing" id="pricing">

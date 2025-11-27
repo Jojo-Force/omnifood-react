@@ -1,4 +1,6 @@
 
+import './local.scss';
+
 const SectionCTA = () => {
     return (
         <section className="section-hero">

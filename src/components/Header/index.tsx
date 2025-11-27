@@ -1,4 +1,4 @@
-
+import './local.scss'
 const Header = () => {
     return (
         <header className="header">

@@ -1,4 +1,4 @@
-
+import './local.scss'
 const SectionTestimonials = () => {
     return (
         <section className="section-testimonials" id="testimonials">

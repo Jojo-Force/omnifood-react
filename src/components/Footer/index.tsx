@@ -1,4 +1,4 @@
-
+import './local.scss'
 const Footer = () => {
     return (
         <footer className="footer">

@@ -1,6 +1,7 @@
 import { createRoot } from 'react-dom/client'
 // 全局样式
 import '@/assets/styles/global.scss'
+import '@/assets/styles/media.scss'
 // 组件的样式
 import App from './App.tsx'
 //import Router from './router/index copy'

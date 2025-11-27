@@ -1,3 +1,4 @@
+import './local.scss'
 const SectionFeature = () => {
     return (
         <section className="section-featured">
