@@ -25,8 +25,8 @@ const Header = () => {
                 </ul>
             </nav>
             <button className="btn-mobile-nav">
-                <ion-icon className="icon-mobile-nav" name="menu-outline"></ion-icon>
-                <ion-icon className="icon-mobile-nav" name="close-outline"></ion-icon>
+                <ion-icon class="icon-mobile-nav" name="menu-outline"></ion-icon>
+                <ion-icon class="icon-mobile-nav" name="close-outline"></ion-icon>
             </button>
         </header>
     )
